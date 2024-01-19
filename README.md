@@ -9,8 +9,8 @@ You can find all the steps and codes inside "Ayça_Demir_CS210_Project.ipnyb" in
 The presentation of the project is in the "Ayça_Demir_CS210_Project_Presentation.mp4". 
 Please head to that file to learn about the project.
 
-
-### Very brief summary
+##
+## Very brief summary
 
 ##### Motivation
 In this project, I aimed to analyze my personal finance data to gain insights into my spending patterns, habits, and their relationship with financial well-being.
