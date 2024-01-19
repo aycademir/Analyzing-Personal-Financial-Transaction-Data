@@ -1,5 +1,4 @@
 # CS210Project
-Personal Data Science Project
 This project aims to analyze personal finance data to gain insights into my spending patterns, habits, and their relationships.
 
 ## Code
