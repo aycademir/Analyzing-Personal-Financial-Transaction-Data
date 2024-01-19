@@ -5,8 +5,7 @@ This project aims to analyze personal finance data to gain insights into my spen
 You can find all the steps and codes inside "Ayça_Demir_CS210_Project.ipnyb" inside this repository.
 
 ## Presentation
-The presentation of the project is in the "Ayça_Demir_CS210_Project_Presentation.mp4". 
-Please head to that file to learn about the project.
+The presentation video of the project is in my drive, the link is: https://drive.google.com/file/d/1EOeB_O0BbA9arR2cdcnmAfDc9bhL5kGI/view?usp=sharing
 
 ##
 ## Summary Of The Project
